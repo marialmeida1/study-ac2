@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61ca98c45ac74bc5",
+            "id": "d44f1e2adc78dbe9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Trabralho Prático 01"
             }
+          },
+          {
+            "id": "4395be7b24d0472e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "tp01/EP01_2025_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EP01_2025_1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,11 +181,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ca98c45ac74bc5",
+  "active": "4395be7b24d0472e",
   "lastOpenFiles": [
-    "tp01/tp0101A_meiosomador.circ",
-    "tp01/EP01_2025_1.pdf",
     "tp01/Trabralho Prático 01.md",
+    "tp01/EP01_2025_1.pdf",
+    "tp01/img/Pasted image 20250227114019.png",
+    "tp01/img",
+    "tp01/img/Pasted image 20250227113909.png",
+    "tp01/tp0101A_meiosomador.circ",
     "Welcome.md",
     "tp01"
   ]
