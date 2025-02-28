@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b95dc8e06e48075d",
+        "id": "e27f46374164156d",
         "type": "tabs",
         "children": [
           {
@@ -20,7 +20,13 @@
               "icon": "lucide-file",
               "title": "Trabralho Prático 01"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "b95dc8e06e48075d",
+        "type": "tabs",
+        "children": [
           {
             "id": "4395be7b24d0472e",
             "type": "leaf",
@@ -33,8 +39,7 @@
               "title": "EP01_2025_1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5a95d85d53c46934",
@@ -181,9 +187,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4395be7b24d0472e",
+  "active": "d44f1e2adc78dbe9",
   "lastOpenFiles": [
+    "tp01/img/Somador Copleto.png",
+    "tp01/img/Somador Copleto.png.crdownload",
+    "tp01/img/Pasted image 20250228110109.png",
+    "tp01/img/Pasted image 20250228110030.png",
+    "tp01/img/Pasted image 20250228105958.png",
     "tp01/Trabralho Prático 01.md",
+    "tp01/img/Pasted image 20250228110058.png",
+    "tp01/img/Pasted image 20250228110046.png",
     "tp01/EP01_2025_1.pdf",
     "tp01/img/Pasted image 20250227114019.png",
     "tp01/img",
