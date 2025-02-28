@@ -50,13 +50,31 @@ Em ambos componentes a portas VCC e GND se encontram respectivamente na portas d
 | ![[Pasted image 20250228110058.png]] | ![[Pasted image 20250228110109.png]] |
 
 
-### Questão 06
+### Questão 06 - 07 - 08 
+
+###### Circuito no TinkerCad
 
 ![[Somador Copleto.png]]
 
-### Questão 07
+###### Circuito no Logisim
+
+![[Pasted image 20250228114805.png]]
 
 
+### Questão 09
+
+###### Tabela Verdade - Somador Completo
+
+| a   | b   | c   | x   | y   |
+| --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   | 0   |
+| 0   | 0   | 1   | 1   | 0   |
+| 0   | 1   | 0   | 1   | 0   |
+| 0   | 1   | 1   | 0   | 1   |
+| 1   | 0   | 0   | 1   | 0   |
+| 1   | 0   | 1   | 0   | 1   |
+| 1   | 1   | 0   | 0   | 1   |
+| 1   | 1   | 1   | 1   | 1   |
 
 
 
