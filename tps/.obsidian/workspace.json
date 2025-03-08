@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "4c60f9ddc11d821d",
+            "id": "e1faf58fc15bfeb3",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -29,6 +29,20 @@
               },
               "icon": "lucide-file-text",
               "title": "EP03_2025_1"
+            }
+          },
+          {
+            "id": "4c60f9ddc11d821d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tp03/Trabalho Prático 03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trabalho Prático 03"
             }
           }
         ],
@@ -179,16 +193,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c60f9ddc11d821d",
+  "active": "ce09b969068d5e75",
   "lastOpenFiles": [
+    "tp03/img",
+    "tp03/Trabalho Prático 03.md",
+    "tp03/img/Pasted image 20250308165113.png",
+    "tp01/Trabralho Prático 01.md",
+    "tp03/EP03_2025_1.pdf",
+    "tp03/introducao_arduino.pdf",
     "tp03/code_arduino/tp0301.cpp",
     "tp03/code_arduino",
-    "tp03/introducao_arduino.pdf",
-    "tp03/EP03_2025_1.pdf",
     "tp01/img/Pasted image 20250228114805.png",
     "tp02/Exercícios Prático 02.pdf",
     "tp02",
-    "tp01/Trabralho Prático 01.md",
     "tp01/img/Pasted image 20250228163920.png",
     "tp01/img/Pasted image 20250228163858.png",
     "tp01/img/Pasted image 20250228163830.png",
@@ -200,9 +217,7 @@
     "tp01/img/Pasted image 20250228110109.png",
     "tp01/img/Pasted image 20250228110030.png",
     "tp01/img/Pasted image 20250228105958.png",
-    "tp01/img/Pasted image 20250228110058.png",
     "tp01/EP01_2025_1.pdf",
-    "tp01/img",
     "Welcome.md"
   ]
 }
