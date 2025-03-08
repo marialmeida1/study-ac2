@@ -1,9 +1,7 @@
 
 # Trabalho Prático 01 - Arquitetura de Computadores
 
-**Aluno:** Mariana Almeida Mendonça
-
-
+**Aluno:** Mariana Almeida Mendonça | Marcella Santos Belchior
 ### Questão 01 
 
 ###### Circuito
@@ -113,4 +111,12 @@ Para aumentar a velocidade, pode-se utilizar um somador com antecipação de car
 
 ### Calculadora de 4bits
 
-	
+###### Resultado Final
+
+![[Pasted image 20250228163830.png]]
+		
+###### Decodificador
+![[Pasted image 20250228163858.png]]]
+
+#### Somador 4Bit
+![[Pasted image 20250228163920.png]]

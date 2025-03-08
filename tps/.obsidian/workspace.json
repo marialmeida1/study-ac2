@@ -11,32 +11,12 @@
             "id": "d44f1e2adc78dbe9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "tp01/Trabralho Prático 01.md",
-                "mode": "source",
-                "source": false
+                "file": "tp01/img/Pasted image 20250228114805.png"
               },
-              "icon": "lucide-file",
-              "title": "Trabralho Prático 01"
-            }
-          }
-        ]
-      },
-      {
-        "id": "b95dc8e06e48075d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4395be7b24d0472e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "tp01/EP01_2025_1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "EP01_2025_1"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250228114805"
             }
           }
         ]
@@ -96,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5a95d85d53c46934",
@@ -187,24 +166,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d44f1e2adc78dbe9",
+  "active": "ce09b969068d5e75",
   "lastOpenFiles": [
-    "Pasted image 20250228120146.png",
+    "tp01/Trabralho Prático 01.md",
+    "tp01/img/Pasted image 20250228163920.png",
+    "tp01/img/Pasted image 20250228163858.png",
+    "tp01/img/Pasted image 20250228163830.png",
+    "tp01/img/Pasted image 20250228120146.png",
     "tp01/tp0103_somador4bit.circ",
-    "Pasted image 20250228114805.png",
+    "tp01/img/Pasted image 20250228114805.png",
     "tp01/tp0102_somadorcompleto.circ",
     "tp01/img/Somador Copleto.png",
     "tp01/img/Somador Copleto.png.crdownload",
     "tp01/img/Pasted image 20250228110109.png",
     "tp01/img/Pasted image 20250228110030.png",
     "tp01/img/Pasted image 20250228105958.png",
-    "tp01/Trabralho Prático 01.md",
     "tp01/img/Pasted image 20250228110058.png",
-    "tp01/img/Pasted image 20250228110046.png",
     "tp01/EP01_2025_1.pdf",
-    "tp01/img/Pasted image 20250227114019.png",
     "tp01/img",
-    "tp01/img/Pasted image 20250227113909.png",
     "tp01/tp0101A_meiosomador.circ",
     "Welcome.md",
     "tp01"
