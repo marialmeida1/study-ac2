@@ -11,15 +11,28 @@
             "id": "d44f1e2adc78dbe9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "tp01/img/Pasted image 20250228114805.png"
+                "file": "tp03/introducao_arduino.pdf"
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250228114805"
+              "icon": "lucide-file-text",
+              "title": "introducao_arduino"
+            }
+          },
+          {
+            "id": "4c60f9ddc11d821d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "tp03/EP03_2025_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "EP03_2025_1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,8 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce09b969068d5e75",
+  "active": "4c60f9ddc11d821d",
   "lastOpenFiles": [
+    "tp03/code_arduino/tp0301.cpp",
+    "tp03/code_arduino",
+    "tp03/introducao_arduino.pdf",
+    "tp03/EP03_2025_1.pdf",
+    "tp01/img/Pasted image 20250228114805.png",
     "tp02/Exercícios Prático 02.pdf",
     "tp02",
     "tp01/Trabralho Prático 01.md",
@@ -176,7 +194,6 @@
     "tp01/img/Pasted image 20250228163830.png",
     "tp01/img/Pasted image 20250228120146.png",
     "tp01/tp0103_somador4bit.circ",
-    "tp01/img/Pasted image 20250228114805.png",
     "tp01/tp0102_somadorcompleto.circ",
     "tp01/img/Somador Copleto.png",
     "tp01/img/Somador Copleto.png.crdownload",
@@ -186,8 +203,6 @@
     "tp01/img/Pasted image 20250228110058.png",
     "tp01/EP01_2025_1.pdf",
     "tp01/img",
-    "tp01/tp0101A_meiosomador.circ",
-    "Welcome.md",
-    "tp01"
+    "Welcome.md"
   ]
 }
