@@ -27,10 +27,10 @@ def hex(letter):
 # Função que converte uma expressão mnemônica para seu valor hexadecimal correspondente
 def mnemonico(expression):
     codehex = {
-        'zeroL': '1',
-        'umL': '0',
+        'zeroL': '0',
+        'umL': '1',
         'copiaA': '2',
-        'copiab': '3',
+        'copiaB': '3',
         'nA': '4',
         'nB': '5',
         'AenB': '6',
