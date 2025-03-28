@@ -1,8 +1,8 @@
 # Função que converte um número em string para sua representação hexadecimal
 def hex(letter):
     codehex = {
-        '1': '1', # Cada número possuí seu correspondente
-        '0': '0',
+        '0': '0', # Cada número possuí seu correspondente
+        '1': '1',
         '2': '2',
         '3': '3',
         '4': '4',
@@ -65,14 +65,14 @@ with open ('testeula.ula', 'r') as infile, open ('testeula.hex', 'w') as  outfil
     w = '0'
 
     for line in infile: # Lê cada linha do arquivo de entrada
+    
+        # Verifica se a linha começa com 'A' e extrai seu valor
+        if(line[0] == 'A'):
+            x = line.replace("A=", "").replace(";", "").replace("\n", "")
 
-        # Verifica se a linha começa com 'X' e extrai seu valor
-        if(line[0] == 'X'):
-            x = line.replace("X=", "").replace(";", "").replace("\n", "")
-
-        # Verifica se a linha começa com 'Y' e extrai seu valor
-        if(line[0] == 'Y'):
-            y = line.replace("Y=", "").replace(";", "").replace("\n", "")
+        # Verifica se a linha começa com 'B' e extrai seu valor
+        if(line[0] == 'B'):
+            y = line.replace("B=", "").replace(";", "").replace("\n", "")
 
         # Verifica se a linha começa com 'W' e extrai seu valor
         if(line[0] == 'W'):
